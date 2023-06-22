@@ -95,6 +95,7 @@ public class SearchMakeModelDialog extends javax.swing.JDialog {
 
     private void jTextField1KeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_jTextField1KeyPressed
         // TODO add your handling code here:
+        /*
         String text = jTextField1.getText();
         Object[] strings = control.searchMake(text);
         DefaultListModel model = new DefaultListModel();
@@ -102,6 +103,7 @@ public class SearchMakeModelDialog extends javax.swing.JDialog {
             model.addElement(string);
         }
         jList1.setModel(model);
+        */
     }//GEN-LAST:event_jTextField1KeyPressed
 
     /**
